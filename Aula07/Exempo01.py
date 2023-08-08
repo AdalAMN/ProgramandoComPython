@@ -1,7 +1,7 @@
 #mostrar primeiro item do dicionario
 print(alunos[111])
 #mostrar spmente as chaves do divionario
-print(alunos.keys[])
+print(alunos.keys())
 #mostrar somente os valores armazenados
 print(alunos.values()
 # Mostrar todos os item do dicionario
@@ -37,3 +37,4 @@ dados = {
 print(dados)
 print(type(dados))
 #Mostrar o ultimo item da lista b
+print(dados["lista_b"][-1])

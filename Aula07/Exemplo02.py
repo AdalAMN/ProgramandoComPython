@@ -13,3 +13,6 @@ print(lista4)
 #Criar uma nova lista com valores acima de 10, com base nos itens da lista
 lista5 = [i for i in lista if i>10]
 print(lista5)
+#Criar uma nova lista com valores pares, com base nos itens da lista
+lista6 = [i for i in lista if i%2==0]
+print(lista6)
