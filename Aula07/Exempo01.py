@@ -1,13 +1,14 @@
+alunos = {}
 #mostrar primeiro item do dicionario
 print(alunos[111])
 #mostrar spmente as chaves do divionario
 print(alunos.keys())
 #mostrar somente os valores armazenados
-print(alunos.values()
+print(alunos.values())
 # Mostrar todos os item do dicionario
 print(alunos.items())
 #Atualizar dicionario
-alunos.update((555:"Paulo Coelho"))
+alunos.update(({555:"Paulo Coelho"}))
 print(alunos)
 alunos[666] = "Teste"
 print(alunos)
