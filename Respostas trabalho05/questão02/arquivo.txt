@@ -1,0 +1,3 @@
+Programação com Python, carga horária de 40
+Custo: R$470.0
+==================================================
