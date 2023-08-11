@@ -1,0 +1,4 @@
+barro
+20.0
+Quantidade vendida: 80
+ 
