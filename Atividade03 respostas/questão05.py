@@ -1,0 +1,2 @@
+#5.	Pesquise e responda quais a principais características da Estrutura Set em Python.
+print("As princitais características da estrutura Set são:\n-Ser desordenado\n-Cada elemento ser único\n-Poder ser modificado, porém os elementos dentro dele devem ser imutaveis")
